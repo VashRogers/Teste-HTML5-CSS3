@@ -1,0 +1,46 @@
+
+
+h1{
+  font-family: "Orbitron", sans-serif;
+  color:#eb5904;
+}
+button{
+  background-color: transparent;
+  border: 1px solid #eb5904;
+  color: #eb5904;
+}
+button:hover{
+  background-color: #eb5904;
+  color: black;
+  transition: 0.25s;
+  font-family: "Orbitron", sans-serif;
+}
+h3{
+  font-family: "Orbitron", sans-serif;
+  color:#eb5904;
+}
+
+.divider{
+  height: 2px;
+  background: linear-gradient(270deg , #ffbb00 0%, #ff7300 100% );
+
+}
+
+.container-fluid{
+  background-color: rgb(8, 8, 14);
+}
+.radius{
+  border-radius: 7px;
+  font-family: "Orbitron", sans-serif;
+}
+
+#altura{
+  height: 20rem;
+}
+#altura-footer{
+  height: 10rem;
+}
+#texto-format{
+  font-family: "Orbitron", sans-serif;
+  color:#eb5904;
+}
